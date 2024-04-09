@@ -1,4 +1,4 @@
-# Demo Application ![GitHub last commit](https://img.shields.io/github/last-commit/mauriciofaustino/demo) ![GitHub issues](https://img.shields.io/github/issues/mauriciofaustino/demo) ![GitHub pull requests](https://img.shields.io/github/issues-pr/mauriciofaustino/demo)
+# Github Copilot Demo Application ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.4-brightgreen) ![Maven](https://img.shields.io/badge/Maven-3.8.1-blue) ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-Enabled-green) ![Java](https://img.shields.io/badge/Java-21-red) ![JUnit](https://img.shields.io/badge/JUnit-5.7.2-blue) ![Lombok](https://img.shields.io/badge/Lombok-1.18.20-orange) ![TDD](https://img.shields.io/badge/TDD-Enabled-green)
 
 This is a Spring Boot application.
 

@@ -1,15 +1,13 @@
 package com.avenuecode.demo.service;
 
-import com.avenuecode.demo.entities.Book;
+import com.avenuecode.demo.entity.Book;
 import com.avenuecode.demo.repository.BookRepository;
-import com.avenuecode.demo.service.BookService;
 import org.apache.logging.log4j.util.Strings;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
-import org.mockito.MockitoAnnotations;
 
 import java.util.Arrays;
 import java.util.Collections;

@@ -1,6 +1,6 @@
 package com.avenuecode.demo.controller;
 
-import com.avenuecode.demo.entities.Book;
+import com.avenuecode.demo.entity.Book;
 import com.avenuecode.demo.service.BookService;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

@@ -1,6 +1,6 @@
 package com.avenuecode.demo.repository;
 
-import com.avenuecode.demo.entities.Book;
+import com.avenuecode.demo.entity.Book;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

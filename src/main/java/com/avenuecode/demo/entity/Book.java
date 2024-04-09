@@ -1,4 +1,4 @@
-package com.avenuecode.demo.entities;
+package com.avenuecode.demo.entity;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import jakarta.persistence.Column;

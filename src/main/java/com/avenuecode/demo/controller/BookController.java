@@ -33,4 +33,10 @@ public class BookController {
         return ResponseEntity.ok(bookService.create(book));
     }
 
+    @PostMapping("/createAll")
+    public ResponseEntity<List<Book>> createAll(@RequestBody List<Book> books) {
+        log.info("Books createAll endpoint was called");
+        return ResponseEntity.ok(bookService.createAll(books));
+    }
+
 }
